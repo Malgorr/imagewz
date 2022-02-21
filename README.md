@@ -1,5 +1,5 @@
 # imagewz
-WaGhoulz Follow Bot instructions.
+WaGhoulz Image Logger instructions.
 
 Open the logger bot.
 
